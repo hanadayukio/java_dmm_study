@@ -19,12 +19,6 @@ public class Chapter07 {
 		System.out.println(bool);
 		
 		
-		
-		
-		
-		
-		
-		
 ////	演算子の種類と使い方
 //		int a;
 //		int b;
