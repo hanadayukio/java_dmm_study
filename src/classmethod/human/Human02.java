@@ -1,10 +1,9 @@
 package classmethod.human;
 
 public class Human02 {
-	
 		public String name;
 		public int age;
-		
+
 		public Human02() {
 			name = "山田";
 			age = 20;
@@ -13,6 +12,4 @@ public class Human02 {
 			this.name = name;
 			this.age = age;
 		}
-	
-
 }
